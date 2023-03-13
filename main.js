@@ -11,5 +11,5 @@ function validate() {
   
     // If the passwords match, allow the form to submit
     return true;
-  }
+}
   
